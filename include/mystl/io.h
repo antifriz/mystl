@@ -21,6 +21,9 @@ namespace mystd {
     std::vector<std::string> read_dir(std::string dir_path);
 
     long file_size(std::string filename);
+
+    char getch(bool display_char = true);
+
 }
 
 #endif //_MYSTL_IO_H
