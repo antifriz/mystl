@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmystl.a  CMakeFiles/mystl.dir/src/string.cc.o CMakeFiles/mystl.dir/src/signal_handlers.cc.o CMakeFiles/mystl.dir/src/io.cc.o CMakeFiles/mystl.dir/src/daemon.cc.o
+/usr/bin/ranlib libmystl.a
